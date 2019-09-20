@@ -1,1 +1,7 @@
-# Predicting-Price-of-Airbnb-Rooms-in-LA-using-unsupervised-learning
+# Information about the Analysis
+
+# Goal of the Analysis
+
+# Dependent Variable
+
+# Independent Variable
