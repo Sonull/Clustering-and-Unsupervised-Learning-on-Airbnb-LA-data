@@ -56,6 +56,7 @@ There were two objectives:
 * In all, 200 variables were considered for clustering
 
 
+
 ![clustersize](https://github.com/Sonull/Unsurvised-Learning-on-Airbnb-LA-data/blob/master/Visualizations/clustersize.png)
 
 * Cluster 3 is the biggest cluster with 75% of the rooms in it
@@ -67,6 +68,8 @@ There were two objectives:
 
 ![v1](https://github.com/Sonull/Unsurvised-Learning-on-Airbnb-LA-data/blob/master/Codes/v1.png)
 
+# Chart 1
+
 ![v2](https://github.com/Sonull/Unsurvised-Learning-on-Airbnb-LA-data/blob/master/Codes/v2.png)
 
 ![Chart1_aug30](https://github.com/Sonull/Unsurvised-Learning-on-Airbnb-LA-data/blob/master/Visualizations/Chart1_aug30.png)
@@ -76,6 +79,7 @@ There were two objectives:
 * Cluster 1 has no shared rooms
 * Overall, there are more number of rooms of type ‘Entire home/apt’ followed by ‘Private rooms’ 
 
+# Chart 2
 
 ![v3](https://github.com/Sonull/Unsurvised-Learning-on-Airbnb-LA-data/blob/master/Codes/v3.png)
 
@@ -83,6 +87,8 @@ There were two objectives:
 
 * The number of rooms with moderate cancellation policy is more than the number of rooms with flexible cancellation policy for each of the clusters 1, 2 and 4 but a completely opposite trend is observed in cluster 3 
 * Overall, there were almost no rooms which had a super strict cancellation policy of 30 or even 60 days
+
+# Chart 3
 
 ![v4](https://github.com/Sonull/Unsurvised-Learning-on-Airbnb-LA-data/blob/master/Codes/v4.png)
 
@@ -92,12 +98,16 @@ There were two objectives:
 * In each cluster, there are more number of rooms that cannot be booked instantly than the rooms that can be booked instantly
 * This difference is least in cluster 1 followed by cluster 2 but this could also be due to the sheer size of these two clusters
 
+# Chart 4
+
 ![v5](https://github.com/Sonull/Unsurvised-Learning-on-Airbnb-LA-data/blob/master/Codes/v5.png)
 
 ![chart4_aug30](https://github.com/Sonull/Unsurvised-Learning-on-Airbnb-LA-data/blob/master/Visualizations/chart4_aug30.png)
 
 * Around 75% of the rooms in Cluster 3 have a cleaning fees associated with them while for cluster 2 and 4 around 85% of the rooms have a cleaning fees associated with them respectively
 * Thus, more percentage of rooms in cluster 2 and 4 have a cleaning fees associated with them respectively than cluster 3 even when cluster 3 has more number of rooms
+
+# Chart 5
 
 ![v6](https://github.com/Sonull/Unsurvised-Learning-on-Airbnb-LA-data/blob/master/Codes/v6.png)
 
@@ -108,6 +118,8 @@ There were two objectives:
 * For a place with 4 bedrooms, the range of log_price in cluster 4 is almost equal to the range of log_price in cluster 3
 * There are no rooms in cluster 1 with more than 3 bedrooms
 * The maximum number of bedrooms that a room can have is 10 which is present in cluster 3
+
+# Chart 6
 
 ![chart6_new](https://github.com/Sonull/Unsurvised-Learning-on-Airbnb-LA-data/blob/master/Codes/chart6_new.png)
 
