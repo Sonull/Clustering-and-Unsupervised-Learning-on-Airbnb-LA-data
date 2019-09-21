@@ -49,6 +49,7 @@ There were two objectives:
 
 ![clustering2](https://github.com/Sonull/Unsurvised-Learning-on-Airbnb-LA-data/blob/master/Codes/clustering2.png)
 
+![clustersize](https://github.com/Sonull/Unsurvised-Learning-on-Airbnb-LA-data/blob/master/Visualizations/clustersize.png)
 
 # Visualization of the data
 # Multivariate Linear Regression Analysis
