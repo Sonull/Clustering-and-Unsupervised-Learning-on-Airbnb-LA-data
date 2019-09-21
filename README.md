@@ -37,9 +37,9 @@ There were two objectives:
 
 # Data Preparation
 
-![dataprep1](https://github.com/Sonull/Unsurvised-Learning-on-Airbnb-LA-data/blob/master/Codes/dataprep1.png)
+![dataprep1_new](https://github.com/Sonull/Unsurvised-Learning-on-Airbnb-LA-data/blob/master/Codes/dataprep1_new.png)
 
-![dataprep2](https://github.com/Sonull/Unsurvised-Learning-on-Airbnb-LA-data/blob/master/Codes/dataprep2.png)
+![dataprep2_new](https://github.com/Sonull/Unsurvised-Learning-on-Airbnb-LA-data/blob/master/Codes/dataprep2_new.png)
 
 # Clustering
 
