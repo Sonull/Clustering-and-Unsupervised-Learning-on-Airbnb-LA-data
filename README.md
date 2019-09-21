@@ -75,9 +75,9 @@ There were two objectives:
 
 ![v6](https://github.com/Sonull/Unsurvised-Learning-on-Airbnb-LA-data/blob/master/Codes/v6.png)
 
-![chart5_aug30](https://github.com/Sonull/Unsurvised-Learning-on-Airbnb-LA-data/blob/master/Visualizations/chart5_aug30.png)
-
 ![chart6_aug30](https://github.com/Sonull/Unsurvised-Learning-on-Airbnb-LA-data/blob/master/Visualizations/chart6_aug30.png)
+
+![chart5_aug30](https://github.com/Sonull/Unsurvised-Learning-on-Airbnb-LA-data/blob/master/Visualizations/chart5_aug30.png)
 
 # Multivariate Linear Regression Analysis
 # Cluster 1
