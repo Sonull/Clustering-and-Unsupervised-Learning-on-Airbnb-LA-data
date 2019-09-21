@@ -31,3 +31,13 @@ There were two objectives:
 * The variable ‘log_price’ which is the log of price of each room is the dependent variable
 
 # Independent Variables for Clustering and Model Building
+
+# Data Preparation
+# Clustering
+# Visualization of the data
+# Multivariate Linear Regression Analysis
+# Cluster 1
+# Cluster 2
+# Cluster 3
+# Cluster 4
+
