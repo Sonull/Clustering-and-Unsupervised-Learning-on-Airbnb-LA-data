@@ -127,11 +127,35 @@ There were two objectives:
 
 ![cluster1_model2](https://github.com/Sonull/Unsurvised-Learning-on-Airbnb-LA-data/blob/master/Visualizations/cluster1_model2.png)
 
+# Conclusion
+
+* Thus, the equation of multiple linear regression model for cluster 1 is:
+# LogPrice of the room = 4.46011 + 0.11484 * accommodates - 0.11623 * bathrooms + 0.11663 * bedrooms – 0.11219 * privacy
+
+* An increase in number of persons that the room can accommodate by 1 person will increase the log price of the room by $0.11484 when all other variables are held constant
+* An increase in the number of bathrooms in the room by 1 bathroom will decrease the logprice of the room by $0.11623 when all other variables are held constant
+* An increase in the number of bedrooms in the room by 1 bedroom will increase the logprice of the room by $0.11663 when all other variables are held constant
+* An increase in the privacy index by 1 unit will decrease the logprice of the room by $0.11219 when all other variables are held constant
+
+
 # Cluster 2
 
 ![model2_new](https://github.com/Sonull/Unsurvised-Learning-on-Airbnb-LA-data/blob/master/Codes/model2_new.png)
 
 ![cluster2_model2](https://github.com/Sonull/Unsurvised-Learning-on-Airbnb-LA-data/blob/master/Visualizations/cluster2_model2.png)
+
+# Conclusion
+
+* Thus, the equation of multiple linear regression model for cluster 2 is:
+# LogPrice of the room = 3.81457 + 0.21501 * bathrooms + 0.13755 * bedrooms + 0.08836 * beds + 0.01223 * num_amenities + 
+0.08371 * bathroom_luxury -0.15133* privacy
+
+* An increase in number of bathrooms in the room by 1 bathroom will increase the logprice of the room by $0.21501 when all other variables are held constant
+* An increase in in number of bedrooms in the room by 1 bedroom will increase the logprice of the room by $0.13755 when all other variables are held constant
+* An increase in in number of beds in the room by 1 bed will increase the logprice of the room by $0.08836 when all other variables are held constant
+* An increase in in number of amenities in the room by 1 amenity will increase the logprice of the room by $0.01223 when all other variables are held constant
+* An increase in the bathroom_luxury index by 1 unit will increase the logprice of the room by $0.08371 when all other variables are held constant
+* An increase in the privacy index by 1 unit will decrease the logprice of the room by $0.15133 when all other variables are held constant
 
 # Cluster 3
 
@@ -139,11 +163,37 @@ There were two objectives:
 
 ![cluster3_model1](https://github.com/Sonull/Unsurvised-Learning-on-Airbnb-LA-data/blob/master/Visualizations/cluster3_model1.png)
 
+# Conclusion
+* Thus, the equation of multiple linear regression model for cluster 3 is:
+# LogPrice of the room = 3.7762481 + 0.0827482 * accommodates + 0.1859950 * bathrooms + 0.1949640 * bedrooms + 0.0232852 * beds + 0.0099534 * num_amenities + 0.0679011 * bathroom_luxury – 0.2002360 * privacy
+
+* An increase in the number of persons that the room can accommodate by 1 person will increase the logprice of the room by $0.0827482 when all other variables are held constant
+* An increase in number of bathrooms in the room by 1 bathroom will increase the logprice of the room by $0.1859950 when all other variables are held constant
+* An increase in in number of bedrooms in the room by 1 bedroom will increase the logprice of the room by $0.1949640 when all other variables are held constant
+* An increase in in number of beds in the room by 1 bed will increase the logprice of the room by $0.0232852 when all other variables are held constant
+* An increase in in number of amenities in the room by 1 amenity will increase the logprice of the room by $0.0099534 when all other variables are held constant
+* An increase in the bathroom_luxury index by 1 unit will increase the logprice of the room by $0.0679011 when all other variables are held constant
+* An increase in the privacy index by 1 unit will decrease the logprice of the room by $0.2002360 when all other variables are held constant
+
 # Cluster 4
 
 ![model4_new](https://github.com/Sonull/Unsurvised-Learning-on-Airbnb-LA-data/blob/master/Codes/model4_new.png)
 
 ![cluster4_model2](https://github.com/Sonull/Unsurvised-Learning-on-Airbnb-LA-data/blob/master/Visualizations/cluster4_model2.png)
+
+# Conclusion
+* Thus, the equation of multiple linear regression model for cluster 4 is:
+# LogPrice of the room = 3.885959 + 0.102167 * accommodates + 0.153955 * bedrooms + 0.042667 * beds + 0.013965* num_amenities + 0.037928 * bathroom_luxury – 0.176391 * privacy
+
+
+* An increase in number of persons that the room can accommodate by 1 person will increase the logprice of the room by $0.102167 when all other variables are held constant
+* An increase in in number of bedrooms in the room by 1 bedroom will increase the logprice of the room by $0.153955 when all other variables are held constant
+* An increase in in number of beds in the room by 1 bed will increase the logprice of the room by $0.042667 when all other variables are held constant
+* An increase in in number of amenities in the room by 1 amenity will increase the logprice of the room by $0.013965 when all other variables are held constant
+* An increase in the bathroom_luxury index by 1 unit will increase the logprice of the room by $0.037928 when all other variables are held constant
+* An increase in the privacy index by 1 unit will decrease the logprice of the room by $0.176391 when all other variables are held constant
+
+
 
 
 
