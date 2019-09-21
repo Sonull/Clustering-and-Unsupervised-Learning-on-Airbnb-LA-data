@@ -32,6 +32,9 @@ There were two objectives:
 
 # Independent Variables for Clustering and Model Building
 
+![varsdesc](https://github.com/Sonull/Unsurvised-Learning-on-Airbnb-LA-data/blob/master/Visualizations/varsdesc.png)
+
+
 # Data Preparation
 # Clustering
 # Visualization of the data
