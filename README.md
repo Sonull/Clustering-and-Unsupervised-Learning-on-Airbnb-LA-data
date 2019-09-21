@@ -77,7 +77,7 @@ There were two objectives:
 
 ![chart6_aug30](https://github.com/Sonull/Unsurvised-Learning-on-Airbnb-LA-data/blob/master/Visualizations/chart6_aug30.png)
 
-![chart5_new](https://github.com/Sonull/Unsurvised-Learning-on-Airbnb-LA-data/blob/master/Visualizations/chart5_new.png)
+![chart6_new](https://github.com/Sonull/Unsurvised-Learning-on-Airbnb-LA-data/blob/master/Codes/chart6_new.png)
 
 ![chart5_aug30](https://github.com/Sonull/Unsurvised-Learning-on-Airbnb-LA-data/blob/master/Visualizations/chart5_aug30.png)
 
