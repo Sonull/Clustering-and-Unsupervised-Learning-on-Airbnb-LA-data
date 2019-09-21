@@ -55,6 +55,7 @@ There were two objectives:
 * Moreover, the elbow curve shows that there is a very negligible increase after 4 number of clusters which can be  considered insignificant.Therefore, I built 4 mutually exclusive and exhaustive clusters using k-means
 * In all, 200 variables were considered for clustering
 
+
 ![clustersize](https://github.com/Sonull/Unsurvised-Learning-on-Airbnb-LA-data/blob/master/Visualizations/clustersize.png)
 
 * Cluster 3 is the biggest cluster with 75% of the rooms in it
