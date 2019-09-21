@@ -36,6 +36,9 @@ There were two objectives:
 
 
 # Data Preparation
+
+![varsdesc](https://github.com/Sonull/Unsurvised-Learning-on-Airbnb-LA-data/blob/master/Visualizations/varsdesc.png)
+
 # Clustering
 # Visualization of the data
 # Multivariate Linear Regression Analysis
