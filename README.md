@@ -47,9 +47,17 @@ There were two objectives:
 
 ![Elbow_Curve_aug30](https://github.com/Sonull/Unsurvised-Learning-on-Airbnb-LA-data/blob/master/Visualizations/Elbow_Curve_aug30.png)
 
+* The Elbow Curve showed that after 6 there is a decline in the calculated sum of squared errors (SSE)
+* I ran one iteration with 6 and 5 number of clusters each but in both cases 1 or 2 clusters were really small so it made sense to decrease the number of clusters
+* Moreover, the elbow curve shows that there is a very negligible increase after 4 number of clusters which can be  considered insignificant.Therefore, I built 4 mutually exclusive and exhaustive clusters using k-means
+* In all, 200 variables were considered for clustering
+
 ![clustering2_new](https://github.com/Sonull/Unsurvised-Learning-on-Airbnb-LA-data/blob/master/Codes/clustering2_new.png)
 
 ![clustersize](https://github.com/Sonull/Unsurvised-Learning-on-Airbnb-LA-data/blob/master/Visualizations/clustersize.png)
+
+* Cluster 3 is the biggest cluster with 75% of the rooms in it
+* Cluster 1 is the smallest with just 1% of the rooms
 
 ![clustering3_new](https://github.com/Sonull/Unsurvised-Learning-on-Airbnb-LA-data/blob/master/Codes/clustering3_new.png)
 
